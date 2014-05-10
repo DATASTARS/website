@@ -1,0 +1,45 @@
+/*sent notification*/
+
+.sent-notification {
+    font-family:'Open Sans', sans-serif;
+    height: 100%;
+    color: #85939b;
+    background: #1E2226;
+}
+
+.sent-notification h1 {
+    padding: 0;
+    text-align: center;
+    margin-top: 100px;
+    line-height: 50px;
+    margin-bottom: 50px;
+}
+
+a:hover {
+	text-decoration: none
+}
+
+.btn.big {
+    padding: 13px 25px;
+    font-size: 18px;
+    margin: 0 auto;
+    display: block;
+}
+
+.btn.btn-red {
+    background: #e74c3c;
+    color: #FFF;
+    padding: 9px 30px;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+.btn.btn-red:hover {
+    background: #f85d4d;
+}
+
+.red {
+	color: #e74c3c;
+}
